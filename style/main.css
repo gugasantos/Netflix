@@ -89,12 +89,9 @@ header nav a:hover{
     margin-right: 8px;
 }
 
-.container{
-    margin-left: 30px;
-}
-
 .filme-principal .container{
     width: 70%;
+    margin-left: 30px;
 }
 
 .box-filme {
