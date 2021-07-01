@@ -1,2 +1,2 @@
 # Netflix
- Refazendo a netfliz com a DIO
+ Refazendo a netflix com a DIO
